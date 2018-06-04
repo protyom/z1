@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\proty\documents\visual studio 2015\projects\z1\z2\source.cpp(82): warning C4715: 'WndProc': not all control paths return a value
+  z2.vcxproj -> C:\Users\proty\Documents\Visual Studio 2015\Projects\z1\Debug\z2.exe

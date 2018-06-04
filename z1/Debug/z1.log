@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\windows.old.000\users\proty\documents\visual studio 2015\projects\z1\z1\main.cpp(81): warning C4715: 'WndProc': not all control paths return a value
+  z1.vcxproj -> C:\Windows.old.000\Users\proty\Documents\Visual Studio 2015\Projects\z1\Debug\z1.exe
+  z1.vcxproj -> C:\Windows.old.000\Users\proty\Documents\Visual Studio 2015\Projects\z1\Debug\z1.pdb (Full PDB)

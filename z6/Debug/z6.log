@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\proty\documents\visual studio 2015\projects\z1\z6\source.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\proty\documents\visual studio 2015\projects\z1\z6\source.cpp(88): warning C4715: 'WndProc': not all control paths return a value
+  z6.vcxproj -> C:\Users\proty\Documents\Visual Studio 2015\Projects\z1\Debug\z6.exe
